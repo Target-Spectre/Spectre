@@ -1,0 +1,6 @@
+[submodule "Modules/Frontend"]
+	path = Modules/Frontend
+	url = https://github.com/Target-Spectre/Target-Spectre-Frontend.git
+[submodule "Modules/Backend"]
+	path = Modules/Backend
+	url = https://github.com/Target-Spectre/Target-Spectre-Backend.git
