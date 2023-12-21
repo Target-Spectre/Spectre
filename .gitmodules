@@ -7,3 +7,6 @@
 [submodule "Modules/Service"]
 	path = Modules/Service
 	url = https://github.com/Target-Spectre/Target-Spectre-Service.git
+[submodule "Modules/Observable"]
+	path = Modules/Observable
+	url = https://github.com/Target-Spectre/Observable.git
